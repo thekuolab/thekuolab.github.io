@@ -34,6 +34,7 @@ socials:
 
 # build settings
 markdown: kramdown
+remote_theme: andrewbanchich/forty
 
 sass:
   style: compressed
