@@ -71,7 +71,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ching-Ning Yeh 葉晴寧</h3>
 				</header>
-				<p>Hui-Chi is a junior in the Bachelor Program in Life Sciences. She was just awarded an MOST undergraduate student research scholarship to study toxicity and signal similarity among Mullerian mimetic butterflies.</p>
+				<p>Ching-Ning is a junior in the Bachelor Program in Life Sciences. She is participating in the lizard behavior project and another project on the thermal tolerance in sea urchins.</p>
 			</div>
 		</div>
 	</section>
