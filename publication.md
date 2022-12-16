@@ -22,7 +22,7 @@ nav-menu: true
 
 <p>Hausmann AE, Freire M, Alfthan SA, <b>Kuo, C-Y</b>, Linares M, McMillan O, Pardo-Diaz C, Salazar C, Merrill RM. <i>In press</i>. Does sexual conflict contribute to the evolution of novel warning patterns? Journal of Evolutionary Biology. <a href="https://www.biorxiv.org/content/10.1101/2022.05.16.492082v1"> preprint pdf</a></p> 
 
-<p>Sutton GP, St Pierre R, Kuo C-Y, Summers A, Bergbreiter S, Cox S, Patek SN. Dual spring force couples yield multi functionality and ultrafast, precision rotation in tiny mechanical systems. Journal of Experimental Biology 225: jeb244077. <a href="https://doi.org/10.1242/jeb.244077">pdf</a></p>
+<p>Sutton GP, St Pierre R, <b>Kuo C-Y</b>, Summers A, Bergbreiter S, Cox S, Patek SN. Dual spring force couples yield multi functionality and ultrafast, precision rotation in tiny mechanical systems. Journal of Experimental Biology 225: jeb244077. <a href="https://doi.org/10.1242/jeb.244077">pdf</a></p>
 
 <p><b>Kuo C-Y*</b>, Ko C-Y, Lai Y-Z. Assessing warming impacts on marine fishes by integrating physiology-guided distribution projections, life-history changes, and food web dynamics. Methods in Ecology and Evolution 13: 1343-1357. <a href="https://doi.org/10.1111/2041-210X.13846">pdf</a></p>
 
