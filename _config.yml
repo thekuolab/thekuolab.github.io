@@ -29,8 +29,8 @@ socials:
   LinkedIn: 
   Twitter: https://twitter.com/ChifromT
   Facebook:
-  Slack:
-  Researchgate: https://www.researchgate.net/profile/Chi-Yun-Kuo
+  Slack: https://www.researchgate.net/profile/Chi-Yun-Kuo
+  Researchgate: 
 
 # build settings
 markdown: kramdown
