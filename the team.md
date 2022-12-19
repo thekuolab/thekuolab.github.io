@@ -71,7 +71,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ching-Ning Yeh 葉晴寧</h3>
 				</header>
-				<p>Ching-Ning is a junior in the Bachelor Program in Life Sciences. She is participating in the lizard behavior project and another project on the thermal tolerance in sea urchins.</p>
+				<p>Ching-Ning is a junior in the Bachelor Program in Life Sciences. She participates in the lizard behavior project and another project on the thermal tolerance in sea urchins.</p>
 			</div>
 		</div>
 	</section>

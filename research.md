@@ -31,7 +31,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Genetics vs plasticity in shaping behavioral diversity</h3>
 				</header>
-				<p>Behaviors often exhibit remarkable variation at the population level. To what extent is such variation produced by underlying genetic differentiations vs. plasticity, however, is less well understood yet very important in understanding behavioral evolution. Utilizing a quantitative genetic approach, we use boldness and avoidance foraging behavior in lizards as the system to answer this question.</p>
+				<p>Behaviors often exhibit remarkable variation at the individual level and beyond. To what extent is such variation produced by underlying genetic differentiations vs. plasticity, however, is less well understood yet very important in understanding behavioral evolution. Utilizing a quantitative genetic approach, we use boldness and avoidance foraging behavior in lizards as the system to answer this question.</p>
 			</div>
 		</div>
 	</section>
