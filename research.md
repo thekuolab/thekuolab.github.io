@@ -44,7 +44,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Predator learning and warning signal diversity</h3>
 				</header>
-				<p>Stable coexistence of multiple warning signals poses an evolutionary puzzle -  theory says it shouldn't happen, yet we find it in lots of communities in nature. One potential solution might be how predators learn. Using warning signals in butterflies, we combine computer simulation, meta-analysis, and field learning experiments to understand how “smart” predators might allow multiple warning signals to persist in the same habitat.</p>
+				<p>Stable coexistence of multiple warning signals poses an evolutionary puzzle -  theory says it shouldn't happen, yet we find it in lots of communities in nature. One potential solution might be how predators learn. Using warning signals in butterflies as the study system, we combine computer simulations, meta-analysis, and field learning experiments to understand how “smart” predators might allow multiple warning signals to persist in the same habitat.</p>
 			</div>
 		</div>
 	</section>
@@ -57,7 +57,7 @@ nav-menu: true
 				<header class="major">
 					<h3>The effects of climate change on species and communities</h3>
 				</header>
-				<p>Climate change and its influences on species is a pressing concern for all biologists and has led to a new research theme in our group. Pulling big data from ecological databases, we integrate three approaches - species distribution models, life-history analysis, and food-web models - to understand what kind of species would be impacted the most by warming climates, and how this might affect the community as a whole.</p>
+				<p>Climate change and its influences on species is a pressing concern for all biologists and has led to a new research theme in our group. Pulling big data from ecological databases, we integrate three approaches - species distribution models, life-history analysis, and food-web models - to understand what kind of species would be impacted the most by warming climates, and how this might affect the community as a whole. Even though we don't go out to sea ourselves, we construct <i>in silico</i> marine fish communities to help answer these questions.</p>
 			</div>
 		</div>
 	</section>
