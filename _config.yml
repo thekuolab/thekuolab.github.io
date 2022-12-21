@@ -6,7 +6,7 @@ description: Thank you for checking us out!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thekuolab.github.io" # the base hostname & protocol for your site
 author:
-street_address: N921 1st Teaching Bldg <br /> 100 Shih-Chuan 1st Rd
+street_address: N921 1st Teaching Bldg <br /> Kaohsiung Medical University <br /> 100 Shih-Chuan 1st Rd
 city: Kaohsiung City 
 state: 
 zip_code: 80707
