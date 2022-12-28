@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: limjh16/jekyll-action-ts@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          enable_cache: true
           target_branch: 'gh-pages'
           
