@@ -36,7 +36,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<section>q
 		<a href="" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
