@@ -18,9 +18,11 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>, Chin H-E, Wu Y-Z. <i>In review</i>. Learning reduces covariation between boldness and foraging behavior in a generalist predator. <a href="https://www.biorxiv.org/content/10.1101/2022.12.13.520202v1"> preprint pdf</a></p>
 
-<h3>2022</h3>
+<h3>2023</h3>
 
-<p>Hausmann AE, Freire M, Alfthan SA, <b>Kuo, C-Y</b>, Linares M, McMillan O, Pardo-Diaz C, Salazar C, Merrill RM. <i>In press</i>. Does sexual conflict contribute to the evolution of novel warning patterns? Journal of Evolutionary Biology. <a href="https://www.biorxiv.org/content/10.1101/2022.05.16.492082v1"> preprint pdf</a></p> 
+<p>Hausmann AE, Freire M, Alfthan SA, <b>Kuo, C-Y</b>, Linares M, McMillan O, Pardo-Diaz C, Salazar C, Merrill RM. Does sexual conflict contribute to the evolution of novel warning patterns? Journal of Evolutionary Biology. <a href="http://doi.org/10.1111/jeb.14151 "> pdf</a></p> 
+
+<h3>2022</h3>
 
 <p>Sutton GP, St Pierre R, <b>Kuo C-Y</b>, Summers A, Bergbreiter S, Cox S, Patek SN. Dual spring force couples yield multi functionality and ultrafast, precision rotation in tiny mechanical systems. Journal of Experimental Biology 225: jeb244077. <a href="https://doi.org/10.1242/jeb.244077">pdf</a></p>
 
