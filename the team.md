@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>The team</h2>
+			<h2>The Team</h2>
 		</header>
 	</div>
 </section>
