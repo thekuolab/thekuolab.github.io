@@ -16,7 +16,7 @@ nav-menu: true
 
 <h3>In review / in revision</h3>
 
-<p><b>Kuo C-Y*</b>, Chin H-E, Wu Y-Z. <i>In review</i>. Learning reduces covariation between boldness and foraging behavior in a generalist predator. <a href="https://www.biorxiv.org/content/10.1101/2022.12.13.520202v1"> preprint pdf</a></p>
+<p><b>Kuo C-Y*</b>, Chin H-E, Wu Y-Z. <i>In revision</i>. Learning reduces covariation between boldness and foraging behavior in a generalist predator. Behavioral Ecology. <a href="https://www.biorxiv.org/content/10.1101/2022.12.13.520202v1"> preprint pdf</a></p>
 
 <h3>2023</h3>
 
