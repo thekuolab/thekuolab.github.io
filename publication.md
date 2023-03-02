@@ -20,7 +20,7 @@ nav-menu: true
 
 <h3>2023</h3>
 
-<p>Hausmann AE, Freire M, Alfthan SA, <b>Kuo, C-Y</b>, Linares M, McMillan O, Pardo-Diaz C, Salazar C, Merrill RM. Does sexual conflict contribute to the evolution of novel warning patterns? Journal of Evolutionary Biology. <a href="http://doi.org/10.1111/jeb.14151 "> pdf</a></p> 
+<p>Hausmann AE, Freire M, Alfthan SA, <b>Kuo, C-Y</b>, Linares M, McMillan O, Pardo-Diaz C, Salazar C, Merrill RM. Does sexual conflict contribute to the evolution of novel warning patterns? Journal of Evolutionary Biology 36: 563-578. <a href="http://doi.org/10.1111/jeb.14151 "> pdf</a></p> 
 
 <h3>2022</h3>
 
