@@ -71,11 +71,23 @@ nav-menu: true
 				<header class="major">
 					<h3>Ching-Ning Yeh 葉晴寧</h3>
 				</header>
-				<p>Ching-Ning is a junior in the Bachelor Program in Life Sciences. She participates in the lizard behavior project and another project on the thermal tolerance in sea urchins.</p>
+				<p>Ching-Ning is a junior in the Bachelor Program in Life Sciences. She works on the physiological tolerance and habitat differentiation in a sea urchin species complex.</p>
 			</div>
 		</div>
 	</section>
-	
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/pic16.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ai-Ching Meng 孟艾晴</h3>
+				</header>
+				<p>Ai-Ching is a sophomore in the Biology Department. She is using AI to quantify exploration personality in lizards.</p>
+			</div>
+		</div>
+	</section>
 	
 </section>
 
