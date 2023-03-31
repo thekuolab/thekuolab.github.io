@@ -87,8 +87,7 @@ nav-menu: true
 				<p>Ai-Ching is a sophomore in the Biology Department. She is using AI to quantify exploration personality in lizards.</p>
 			</div>
 		</div>
-	</section>
-	
+	</section>	
 </section>
 
 <!-- Three -->
