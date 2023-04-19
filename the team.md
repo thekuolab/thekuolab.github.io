@@ -31,7 +31,7 @@ nav-menu: true
 					<h4>Assistant Professor - <a href= "https://biology.kmu.edu.tw/index.php/zh-tw/">Department of Biomedical Science and Environmental Biology</a></h4>
 					<h4>Associate Editor - <a href= "https://besjournals.onlinelibrary.wiley.com/journal/13652435">Functional Ecology</a></h4>
 				</header>
-				<p>Chi is an evolutionary and behavioral ecologist with a particular interest in understanding how ecology drives behavioral adaptation and diversity. Chi is interested in a wide variety of topics and is particularly fond of combining modeling and empirical data to answer questions at hand. <a href= "https://drive.google.com/file/d/1XaF5Ra4ESvbaYVgRPiDn-c7tVRlLbZrg/view?usp=share_link">Here's Chi's CV (updated 01-18-2023)</a></p>
+				<p>Chi is an evolutionary and behavioral ecologist with a particular interest in understanding how ecology drives behavioral adaptation and diversity. Chi is interested in a wide variety of topics and is particularly fond of combining modeling and empirical data to answer questions at hand. <a href= "https://drive.google.com/file/d/1CjfZiWZERCuoD7StaAF2MoZA1i44fm9f/view?usp=sharing">Here's Chi's CV (updated 01-18-2023)</a></p>
 				
 			</div>
 		</div>
