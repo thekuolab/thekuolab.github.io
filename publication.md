@@ -20,7 +20,7 @@ nav-menu: true
 
 <h3>2023</h3>
 
-<p><b>Kuo C-Y*</b>, Chin H-E, Wu Y-Z. <i>Accepted</i>. Intricate covariation between exploration and avoidance learning in a generalist predator. Behavioral Ecology. <a href="https://www.biorxiv.org/content/10.1101/2022.12.13.520202v1"> preprint pdf</a></p>
+<p><b>Kuo C-Y*</b>, Chin H-E, Wu Y-Z. <i>In press</i>. Intricate covariation between exploration and avoidance learning in a generalist predator. Behavioral Ecology. <a href="https://www.biorxiv.org/content/10.1101/2022.12.13.520202v1"> preprint pdf</a></p>
 
 <p>Hausmann AE, Freire M, Alfthan SA, <b>Kuo, C-Y</b>, Linares M, McMillan O, Pardo-Diaz C, Salazar C, Merrill RM. Does sexual conflict contribute to the evolution of novel warning patterns? Journal of Evolutionary Biology 36: 563-578. <a href="http://doi.org/10.1111/jeb.14151 "> pdf</a></p> 
 
