@@ -14,9 +14,9 @@ nav-menu: true
 
 <p>*Corresponding author
 
-<h3>In review / in revision</h3>
+<h3>Preprint / In review / in revision</h3>
 
-<p>---</p>
+<p><b>Kuo, C-Y*</b>. Predator learning can resolve the paradox of local warning signal diversity. bioRxiv. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
 
 <h3>2023</h3>
 
