@@ -87,7 +87,20 @@ nav-menu: true
 				<p>Ai-Ching is a sophomore in the Biology Department. She is using AI to quantify exploration personality in lizards.</p>
 			</div>
 		</div>
-	</section>	
+	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/pic17.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>You-Si Chen  陳又璽</h3>
+				</header>
+				<p>You-Si is a sophomore in the Biology Department. He is participating in the project using domestic chicks as predators to measure avoidance towards toxic butterflies.</p>
+			</div>
+		</div>
+	</section>		
 </section>
 
 <!-- Three -->
