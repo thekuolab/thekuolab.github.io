@@ -45,7 +45,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hao-En Chin 秦皓恩</h3>
 				</header>
-				<p>Hao-En is a senior in the Biology Department. He works on the correlation between boldness and avoidance learning ability in lizards. Hao-En also plays in the department’s volleyball team.</p>
+				<p>Hao-En is a recent graduate from the Biology Department. He is involved in multiple projects in the lab, including the correlation between boldness and avoidance learning ability in lizards and behavioral responses of avian predators to butterfly chemical defense.</p>
 			</div>
 		</div>
 	</section>
@@ -58,7 +58,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hui-Chi Liu 劉蕙綺</h3>
 				</header>
-				<p>Hui-Chi is a junior in the Bachelor Program in Life Sciences. She was just awarded an MOST undergraduate student research scholarship to study toxicity and signal similarity among Mullerian mimetic butterflies.</p>
+				<p>Hui-Chi is a senior in the Bachelor Program in Life Sciences. She was awarded an MOST undergraduate student research scholarship to study toxicity and signal similarity among Mullerian mimetic butterflies.</p>
 			</div>
 		</div>
 	</section>
@@ -71,7 +71,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ching-Ning Yeh 葉晴寧</h3>
 				</header>
-				<p>Ching-Ning is a junior in the Bachelor Program in Life Sciences. She works on the physiological tolerance and habitat differentiation in a sea urchin species complex.</p>
+				<p>Ching-Ning is a senior in the Bachelor Program in Life Sciences. She works on the thermal tolerance and habitat differentiation in a sea urchin species complex.</p>
 			</div>
 		</div>
 	</section>
@@ -84,7 +84,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ai-Ching Meng 孟艾晴</h3>
 				</header>
-				<p>Ai-Ching is a sophomore in the Biology Department. She is using AI to quantify exploration personality in lizards.</p>
+				<p>Ai-Ching is a junior in the Biology Department. She is using AI to quantify exploration personality in lizards.</p>
 			</div>
 		</div>
 	</section>
@@ -97,7 +97,7 @@ nav-menu: true
 				<header class="major">
 					<h3>You-Si Chen  陳又璽</h3>
 				</header>
-				<p>You-Si is a sophomore in the Biology Department. He is participating in the project using domestic chicks as predators to measure avoidance towards toxic butterflies.</p>
+				<p>You-Si is a junior in the Biology Department. He is participating in the project using domestic chicks as predators to measure avoidance towards toxic butterflies.</p>
 			</div>
 		</div>
 	</section>		
