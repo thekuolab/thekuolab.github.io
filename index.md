@@ -9,7 +9,6 @@ show_tile: false
 ---
 
 <ul>
-	<li><b>WE ARE RECRUITING A RESEARCH ASSISTANT!</b> Earliest start date is <b>Aug 1st</b>. Details can be found <a href="https://drive.google.com/file/d/1PVkm1Gs1qj_fA2tMhyYHTuyX8NlwqQ6A/view?usp=share_link"> here. </a></li>
 	<li><b>07-20-2023</b>: Chi shared the lab's research at the Animal Behavior Meeting in Portland. You can view the presentation slides <a href="https://docs.google.com/presentation/d/1Shb1DL0MrrulMTFLBtR9T6c3_bSY-4Y3/edit?usp=share_link&ouid=113049256770468935529&rtpof=true&sd=true"> here</a></li>	
 	<li><b>06-27-2023</b>: Hui-Chi, Ching-Ning, and Ai-Ching got funded for an internship at Smithsonian Tropical Research Institute this summer!</li>	
 	<li><b>06-21-2023</b>: The lab has received funding from NSTC to disentangle how genetics and plasticity determine the variation in animal personality and avoidance learning!</li>	
