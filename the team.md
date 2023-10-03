@@ -38,14 +38,27 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
+			<img src="{% link assets/images/pic18.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Research Assistant: Yu-Zhe Wu 巫宇哲</h3>
+				</header>
+				<p>Yu-Zhe is a recent graduate from the Biology Department and worked in our group as an undergraduate. He will be in charge of multiple projects, including one on boldness and reverse learning in lizards and another on predator responses to butterfly chemical defenses.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hao-En Chin 秦皓恩</h3>
+					<h3>Research technician: Hao-En Chin 秦皓恩</h3>
 				</header>
-				<p>Hao-En is a recent graduate from the Biology Department. He is involved in multiple projects in the lab, including the correlation between boldness and avoidance learning ability in lizards and behavioral responses of avian predators to butterfly chemical defense.</p>
+				<p>Hao-En is a recent graduate from the Biology Department. He helps collecting data on the correlation between boldness and avoidance learning in lizards and has been leading a project on behavioral responses of avian predators to butterfly chemical defense.</p>
 			</div>
 		</div>
 	</section>
