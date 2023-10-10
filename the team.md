@@ -113,7 +113,20 @@ nav-menu: true
 				<p>You-Si is a junior in the Biology Department. He is participating in the project using domestic chicks as predators to measure avoidance towards toxic butterflies.</p>
 			</div>
 		</div>
-	</section>		
+	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/pic19.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Shan-Yu Yang  楊善喻</h3>
+				</header>
+				<p>Shan-Yu is a sophomore in the Bachelor Program in Life Sciences. She is interested in animal behavior and cognition.</p>
+			</div>
+		</div>
+	</section>			
 </section>
 
 <!-- Three -->
