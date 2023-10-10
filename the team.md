@@ -56,7 +56,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Research technician: Hao-En Chin 秦皓恩</h3>
+					<h3>Research Technician: Hao-En Chin 秦皓恩</h3>
 				</header>
 				<p>Hao-En is a recent graduate from the Biology Department. He helps collecting data on the correlation between boldness and avoidance learning in lizards and has been leading a project on behavioral responses of avian predators to butterfly chemical defense.</p>
 			</div>
