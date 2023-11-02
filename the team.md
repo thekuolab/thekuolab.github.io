@@ -116,6 +116,19 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
+			<img src="{% link assets/images/pic20.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Hsin-Yen Lu  呂欣彥</h3>
+				</header>
+				<p>Hsin-Yen is a junior in the Biotechnology Department. He is working on visualizing butterfly wing patterns when they are in motion.</p>
+			</div>
+		</div>
+	</section>			
+	<section>
+		<a href="" class="image">
 			<img src="{% link assets/images/pic19.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">

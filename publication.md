@@ -18,9 +18,11 @@ nav-menu: true
 
 <p>Rossi M, Hausmann AE, Alcami P, Moest MH, Wright DS, <b>Kuo C-Y</b>, Lozano D, Maulana A, Melo-Florez L, Rueda-Munoz G, McMahon S, Linares M, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM. <i>In revision</i>. Adaptive introgression of a visual preference gene. <a href="https://doi.org/10.1101/2023.07.12.548653"> preprint pdf</a></p> 
 
-<p><b>Kuo, C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. <i>In review</i>. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. <a href="https://www.biorxiv.org/content/10.1101/2023.08.05.552099v1"> preprint pdf</a></p> 
+<p><b>Kuo C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. <i>In revision</i>. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. <a href="https://www.biorxiv.org/content/10.1101/2023.08.05.552099v1"> preprint pdf</a></p> 
 
-<p><b>Kuo, C-Y*</b>. <i>In review</i>. Predator learning can resolve the paradox of local warning signal diversity. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
+<p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
+
+<p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>BioRxiv</i>. Adaptive divergence in the eyes of <i>Heliconius</i> butterflies likely contributes to pre- and post mating isolation. <a href="https://doi.org/10.1101/2023.10.26.564160"> preprint pdf</a></p>
 
 <h3>2023</h3>
 
