@@ -51,19 +51,6 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Research Technician: Hao-En Chin 秦皓恩</h3>
-				</header>
-				<p>Hao-En is a recent graduate from the Biology Department. He helps collecting data on the correlation between boldness and avoidance learning in lizards and has been leading a project on behavioral responses of avian predators to butterfly chemical defense.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -139,17 +126,25 @@ nav-menu: true
 				<p>Shan-Yu is a sophomore in the Bachelor Program in Life Sciences. She is interested in animal behavior and cognition.</p>
 			</div>
 		</div>
-	</section>			
+	</section>
 </section>
 
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Join us</h2>
+			<h2>Lab Alumni</h2>
 		</header>
-		<p>Interested in what we do? We are currently recruiting undergraduate and Master’s students. Get in touch if you would like to explore possibilities of working together!</p>
+		<p><b>Hao-En Chin 秦皓恩:</b> Hao-En was a postgraduate research technician in the lab. He helped perform avoidance learning experiments on lizards and domestic chicks.</p>
 	</div>
 </section>
 
-</div>
+<!-- Four -->
+<section id="four">
+	<div class="inner">
+		<header class="major">
+			<h2>Join us</h2>
+		</header>
+		<p>Interested in what we do? Get in touch if you would like to explore possibilities of working together!</p>
+	</div>
+</section>
