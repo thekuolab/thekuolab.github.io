@@ -22,7 +22,7 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
 
-<p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>BioRxiv</i>. Adaptive divergence in the eyes of <i>Heliconius</i> butterflies likely contributes to pre- and post mating isolation. <a href="https://doi.org/10.1101/2023.10.26.564160"> preprint pdf</a></p>
+<p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>In review</i>. Adaptive divergence in the eyes of <i>Heliconius</i> butterflies likely contributes to pre- and post mating isolation. <a href="https://doi.org/10.1101/2023.10.26.564160"> preprint pdf</a></p>
 
 <h3>2023</h3>
 
