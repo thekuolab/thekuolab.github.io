@@ -135,7 +135,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Lab Alumni</h2>
 		</header>
-		<p><b>Hao-En Chin 秦皓恩:</b> Hao-En was a postgraduate research technician in the lab. He helped perform avoidance learning experiments on lizards and domestic chicks.</p>
+		<p><b>Hao-En Chin 秦皓恩 (2022-2023):</b> Hao-En was a postgraduate research technician in the lab. He helped perform avoidance learning experiments on lizards and domestic chicks.</p>
 	</div>
 </section>
 
@@ -143,7 +143,7 @@ nav-menu: true
 <section id="four">
 	<div class="inner">
 		<header class="major">
-			<h2>Join us</h2>
+			<h2>Join Us</h2>
 		</header>
 		<p>Interested in what we do? Get in touch if you would like to explore possibilities of working together!</p>
 	</div>
