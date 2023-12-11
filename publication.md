@@ -14,17 +14,17 @@ nav-menu: true
 
 <p>*Corresponding author
 
-<h3>Preprint / In review / in revision</h3>
+<h3>Preprint / In review / In revision</h3>
 
 <p>Rossi M, Hausmann AE, Alcami P, Moest MH, Wright DS, <b>Kuo C-Y</b>, Lozano D, Maulana A, Melo-Florez L, Rueda-Munoz G, McMahon S, Linares M, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM. <i>In revision</i>. Adaptive introgression of a visual preference gene. Science. <a href="https://doi.org/10.1101/2023.07.12.548653"> preprint pdf</a></p> 
-
-<p><b>Kuo C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. <i>In revision</i>. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. Journal of Evolutionary Biology. <a href="https://www.biorxiv.org/content/10.1101/2023.08.05.552099v1"> preprint pdf</a></p> 
 
 <p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
 
 <p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>In review</i>. Adaptive divergence in the eyes of <i>Heliconius</i> butterflies likely contributes to pre- and post mating isolation. Evolution. <a href="https://doi.org/10.1101/2023.10.26.564160"> preprint pdf</a></p>
 
 <h3>2023</h3>
+
+<p><b>Kuo C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. Journal of Evolutionary Biology.
 
 <p><b>Kuo C-Y*</b>, Chin H-E, Wu Y-Z. Intricate covariation between exploration and avoidance learning in a generalist predator. Behavioral Ecology 34: 708-717. <a href=" https://doi.org/10.1093/beheco/arad041"> pdf</a></p>
 

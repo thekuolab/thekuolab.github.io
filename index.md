@@ -9,6 +9,7 @@ show_tile: false
 ---
 
 <ul>
+	<li><b>12-11-2023</b>: Our paper on how wing patterns affect male and female mating behaviors in <i>Heliconius cydno</i> is accepted by Journal of Evolutionary Biology!</li>
 	<li><b>10-01-2023</b>: Yu-Zhe Wu joined the lab as our research assistant. Welcome!</li>
 	<li><b>07-20-2023</b>: Chi shared the lab's research at the Animal Behavior Meeting in Portland. You can view the presentation slides <a href="https://docs.google.com/presentation/d/1Shb1DL0MrrulMTFLBtR9T6c3_bSY-4Y3/edit?usp=share_link&ouid=113049256770468935529&rtpof=true&sd=true"> here</a></li>	
 	<li><b>06-27-2023</b>: Hui-Chi, Ching-Ning, and Ai-Ching got funded for an internship at Smithsonian Tropical Research Institute this summer!</li>	
