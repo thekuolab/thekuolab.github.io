@@ -22,9 +22,11 @@ nav-menu: true
 
 <p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>In review</i>. Adaptive divergence in the eyes of <i>Heliconius</i> butterflies likely contributes to pre- and post mating isolation. Evolution. <a href="https://doi.org/10.1101/2023.10.26.564160"> preprint pdf</a></p>
 
-<h3>2023</h3>
+<h3>2024</h3>
 
-<p><b>Kuo C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. Journal of Evolutionary Biology.
+<p><b>Kuo C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. Journal of Evolutionary Biology.<a href="https://academic.oup.com/jeb/advance-article/doi/10.1093/jeb/voae010/7577885?searchresult=1"> pdf</a></p>
+
+<h3>2023</h3>
 
 <p><b>Kuo C-Y*</b>, Chin H-E, Wu Y-Z. Intricate covariation between exploration and avoidance learning in a generalist predator. Behavioral Ecology 34: 708-717. <a href=" https://doi.org/10.1093/beheco/arad041"> pdf</a></p>
 
