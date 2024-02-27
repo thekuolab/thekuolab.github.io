@@ -127,6 +127,32 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/pic21.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Hsin-Chen Tsai 蔡昕辰</h3>
+				</header>
+				<p>Hsin-Chen is a sophomore in the Biology Department. She is participating in our experimental evolution project using bugs.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/pic22.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Chiao-Hsuan Kuo 郭蕎瑄</h3>
+				</header>
+				<p>Chiao-Hsuan is a sophomore in the Biology Department. She is also participating in our experimental evolution project using bugs.</p>
+			</div>
+		</div>
+	</section>
 </section>
 
 <!-- Three -->
