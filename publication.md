@@ -24,7 +24,7 @@ nav-menu: true
 
 <p>Rossi M, Hausmann AE, Alcami P, Moest MH, Wright DS, <b>Kuo C-Y</b>, Lozano D, Maulana A, Melo-Florez L, Rueda-Munoz G, McMahon S, Linares M, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM. <i>Accepted</i>. Adaptive introgression of a visual preference gene. Science. 
 
-<p><b>Kuo C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. Journal of Evolutionary Biology.<a href="https://academic.oup.com/jeb/advance-article/doi/10.1093/jeb/voae010/7577885?searchresult=1"> pdf</a></p>
+<p><b>Kuo C-Y*</b>, Melo-Flóres L, Aragón A, Oberweiser MM, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM*. Divergent warning patterns influence male and female mating behaviours in a tropical butterfly. Journal of Evolutionary Biology 37: 267-273 (cover).<a href="https://academic.oup.com/jeb/advance-article/doi/10.1093/jeb/voae010/7577885?searchresult=1"> pdf</a></p>
 
 <h3>2023</h3>
 
