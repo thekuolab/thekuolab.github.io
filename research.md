@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Our research</h2>
+			<h2>Our Research</h2>
 		</header>
 		<p> Our group is broadly interested in behavioral and evolutionary ecology, especially regarding how ecology shapes behavioral diversity and its evolutionary implications. We use a wide variety of approaches, including laboratory behavioral experiments, field research, meta-analyses, and theoretical modeling. We mainly use lizards and butterflies as study animals but are open to other organisms as along as they are tractable and appropriate for the questions of interest.</p>  
 		<p> 我們的專長是行為和演化生態，尤其對生態環境如何影響行為的多樣性特別有興趣。我們研究的方法很多元：行為實驗、田野資料、大數據分析以及理論模擬都有包含。我們研究的物種目前以蜥蜴與蝴蝶為主，但只要條件適合，其他的物種我們也會考慮使用。</p>
