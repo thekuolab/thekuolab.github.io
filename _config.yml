@@ -24,13 +24,13 @@ tiles-count: 4
 socials:
   GitHub: https://github.com/thekuolab
   GitLab:
-  Google-Plus: 
+  Google: https://scholar.google.com/citations?hl=en&user=FzUgg9AAAAAJ
   Instagram:
   LinkedIn: 
-  Twitter: https://twitter.com/ChifromT
+  Twitter: 
   Facebook:
-  Slack: https://www.researchgate.net/profile/Chi-Yun-Kuo
-  Researchgate: 
+  Slack: 
+  Registered: https://www.researchgate.net/profile/Chi-Yun-Kuo
 
 # build settings
 markdown: kramdown
