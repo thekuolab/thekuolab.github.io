@@ -29,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Genetics vs plasticity in shaping behavioral diversity</h3>
+					<h3>The personality-cognition coupling</h3>
 				</header>
-				<p>Behaviors often exhibit remarkable variation at the individual level and beyond. To what extent is such variation produced by underlying genetic differentiations vs. plasticity, however, is less well understood yet very important in understanding behavioral evolution. Utilizing a quantitative genetic approach, we use boldness and avoidance foraging behavior in lizards as the system to answer this question.</p>
+				<p>The fast-slow syndrome hypothesis predicts correlated expressions of behavioral tendency and cognitive style, but the empirical evidence has been varied and inconclusive. We investigate the proximate (genetics vs. environment) and ultimate (eco-evolutionary drivers) mechanisms of the personality-cognition coupling, using lizards and carnivorous bugs as systems.</p>
 			</div>
 		</div>
 	</section>
@@ -42,9 +42,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Predator learning and warning signal diversity</h3>
+					<h3>Linking individual learning to community-level dynamics</h3>
 				</header>
-				<p>Stable coexistence of multiple warning signals poses an evolutionary puzzle -  theory says it shouldn't happen, yet we find it in lots of communities in nature. One potential solution might be how predators learn. Using warning signals in butterflies as the study system, we combine computer simulations, meta-analysis, and field learning experiments to understand how “smart” predators might allow multiple warning signals to persist in the same habitat.</p>
+				<p>How individuals modify their behaviors through experience can have profound effects at the community level through trophic interactions. We explore this phenomenon in the context of Müllerian mimicry. Focusing on toxic butterflies and their predators, we are interested in how predator learning can determine long-term dominance hierarchy between co-mimics and allow multiple distinct warning signals to coexist locally.</p>
 			</div>
 		</div>
 	</section>

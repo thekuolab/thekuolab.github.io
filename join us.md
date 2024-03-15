@@ -14,4 +14,4 @@ I don't have funding for postdocs at the moment, but there are funding opportuni
 We are always looking for motivated graduate students to join the team. If you think what we do matches your interest, don't hesitate to reach out. It would be helpful if you could attach your CV in the email and tell me your research ideas, so we can have a basis for discussions.
 
 <h3>Undergraduate students</h3>
-We always welcome committed undergraduate students to join the lab. If you want to have some research experience and are interested in what we do, feel free to email or stop by my office so we can have a chat.  
+We welcome committed undergraduate students to join the lab. If you want to have some research experience and are interested in what we do, feel free to email or stop by my office so we can have a chat.  
