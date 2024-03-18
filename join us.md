@@ -5,7 +5,7 @@ description: 'Be part of the team'
 image: assets/images/pic23.jpg
 nav-menu: true
 ---
-<b>People with all identities and backgrounds are welcome to join our group. As long as space and resources allow, we are always open to recruiting new members. Active openings will also be posted here, too.</b> 
+<b>People with all identities and backgrounds are welcome to join our group. As long as space and resources allow, we are always open to recruiting new members. Active openings will also be posted here.</b> 
 
 <h3>Postdocs</h3>
 I don't have funding for postdocs at the moment, but there are funding opportunities through NSTC and some other sources. Get in touch if you are interested in doing a postdoc with us, and we can figure out a plan together.
