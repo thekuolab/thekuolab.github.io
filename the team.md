@@ -95,7 +95,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>You-Si Chen  陳又璽</h3>
+					<h3>Yu-Hsi Chen  陳又璽</h3>
 				</header>
 				<p>You-Si is a junior in the Biology Department. He is participating in the project using domestic chicks as predators to measure avoidance towards toxic butterflies.</p>
 			</div>
