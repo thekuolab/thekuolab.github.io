@@ -16,6 +16,8 @@ nav-menu: true
 
 <h3>Preprint / In review / In revision</h3>
 
+<p><b>Kuo C-Y*</b>, Chen Y-H, Meng A-C, Y-Z Wu, S-Y Yang, C-N Yeh. Fast exploration in coupled with a less choosy but more reactive learning style in a generalist predator. <a href="https://doi.org/10.1101/2024.03.26.586890"> preprint pdf</a></p>
+
 <p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
 
 <p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>In revision</i>. Adaptive divergence of eye morphology in sympatric <i>Heliconius</i> butterflies. Evolution.</p>
