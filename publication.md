@@ -20,9 +20,10 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
 
-<p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>In revision</i>. Adaptive divergence of eye morphology in sympatric <i>Heliconius</i> butterflies. Evolution.</p>
 
 <h3>2024</h3>
+
+<p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. <i>In press</i>. Selection drives divergence of eye morphology in sympatric <i>Heliconius</i> butterflies. Evolution.</p>
 
 <p>Rossi M, Hausmann AE, Alcami P, Moest MH, Wright DS, <b>Kuo C-Y</b>, Lozano D, Maulana A, Melo-Florez L, Rueda-Munoz G, McMahon S, Linares M, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM. Adaptive introgression of a visual preference gene. Science 383: 1368-1373 (cover). <a href="https://www.science.org/doi/10.1126/science.adj9201"> pdf</a></p>
 
