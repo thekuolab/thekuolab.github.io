@@ -16,7 +16,7 @@ nav-menu: true
 
 <h3>Preprint / In review / In revision</h3>
 
-<p><b>Kuo C-Y*</b>, Chen Y-H, Meng A-C, Wu Y-Z, Yang S-Y, Yeh C-N. <i>In review</i>. Exploration is correlated with dietary choosiness and avoidance learning style in a generalist predator. <a href="https://doi.org/10.1101/2024.03.26.586890"> preprint pdf</a></p>
+<p><b>Kuo C-Y*</b>, Chen Y-H, Meng A-C, Wu Y-Z, Yang S-Y, Yeh C-N. <i>In review</i>. Exploration correlates with dietary choosiness and avoidance learning style in a generalist predator. <a href="https://doi.org/10.1101/2024.03.26.586890"> preprint pdf</a></p>
 
 <p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning. <a href="https://www.biorxiv.org/content/10.1101/2023.05.04.539348v1"> preprint pdf</a></p>
 
