@@ -7,7 +7,6 @@ image: null
 author: null
 show_tile: false
 ---
-
 <ul>
 	<li><b>05-28-2024</b>: Chi contributed to a paper on selection driving the divergence of eye morphology in a pair of <i>Heliconius</i> butterflies, now published in <a href="https://doi.org/10.1093/evolut/qpae073"> Evolution!</a></li>
 	<li><b>05-08-2024</b>: Ai-Ching got a summer internship to work with Dr. Hsi-Cheng Ho at IEEB, NTU. Congrats!</li>
