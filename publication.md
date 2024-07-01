@@ -23,7 +23,7 @@ nav-menu: true
 <h3>2024</h3>
 
 
-<p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. Selection drives divergence of eye morphology in sympatric <i>Heliconius</i> butterflies. Evolution. <a href="https://doi.org/10.1093/evolut/qpae073"> pdf</a></p>
+<p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. Selection drives divergence of eye morphology in sympatric <i>Heliconius</i> butterflies. Evolution 78: 1338-1346. <a href="https://doi.org/10.1093/evolut/qpae073"> pdf</a></p>
 
 <p>Rossi M, Hausmann AE, Alcami P, Moest MH, Wright DS, <b>Kuo C-Y</b>, Lozano D, Maulana A, Melo-Florez L, Rueda-Munoz G, McMahon S, Linares M, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM. Adaptive introgression of a visual preference gene. Science 383: 1368-1373 (cover). <a href="https://www.science.org/doi/10.1126/science.adj9201"> pdf</a></p>
 
