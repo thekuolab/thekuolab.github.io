@@ -136,7 +136,7 @@ nav-menu: true
 			<h2>Lab Alumni</h2>
 		</header>
 		<p><b>Hao-En Chin 秦皓恩 (Undergard 2021-2023):</b> Hao-En worked as a postgraduate research technician in the lab. He helped perform avoidance learning experiments on lizards and domestic chicks.</p>
-		<p><b>Hui-Chi Liu 劉蕙綺 (Undergrad 2021-2023):</b> Hui-Chi mainly worked with Müllerian butterflies during her time in the lab. She is now a Master's student at Dr. Po-An Lin's lab at NTU.</p>
-		<p><b>Ching-Ning Yeh 葉晴寧 (Undergrad 2022-2023):</b> Ching-Ning worked on both lizards and butterflies in the lab. She is now a Master's student at Dr. David Zelený's lab at NTU.</p>
+		<p><b>Hui-Chi Liu 劉蕙綺 (Undergrad 2021-2023):</b> Hui-Chi mainly worked with Müllerian butterflies during her time in the lab. She is now a Master's student with Dr. Po-An Lin at NTU.</p>
+		<p><b>Ching-Ning Yeh 葉晴寧 (Undergrad 2022-2023):</b> Ching-Ning worked on both lizards and butterflies in the lab. She is now a Master's student with Dr. David Zelený at NTU.</p>
 	</div>
 </section>
