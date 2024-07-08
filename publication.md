@@ -22,7 +22,6 @@ nav-menu: true
 
 <h3>2024</h3>
 
-
 <p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. Selection drives divergence of eye morphology in sympatric <i>Heliconius</i> butterflies. Evolution 78: 1338-1346. <a href="https://doi.org/10.1093/evolut/qpae073"> pdf</a></p>
 
 <p>Rossi M, Hausmann AE, Alcami P, Moest MH, Wright DS, <b>Kuo C-Y</b>, Lozano D, Maulana A, Melo-Florez L, Rueda-Munoz G, McMahon S, Linares M, McMillan WO, Pardo-Diaz C, Salazar C, Merrill RM. Adaptive introgression of a visual preference gene. Science 383: 1368-1373 (cover). <a href="https://www.science.org/doi/10.1126/science.adj9201"> pdf</a></p>
@@ -61,25 +60,23 @@ nav-menu: true
 
 <p>Ilton M, Bhamla S, Ma X, Cox S, Fitchett LL, Kim Y, Koh J-S, Krishnamurthy D, <b>Kuo C-Y</b>, Temel FZ, Crosby A, Prakash M, Sutton G, Wood R, Azizi E, Bergbreiter S, Patek S. The principles of cascading power limits in small, fast biological and engineered systems. Science 360: eaao1082. <a href="https://www.science.org/doi/10.1126/science.aao1082">pdf</a></p>
 
-<h3>2017</h3>
+<h3>Pre 2018</h3>
 
-<p>Irschick DJ, Fu AL, Lauder GV, Wilga CD, <b>Kuo, C-Y</b>, Hammerschlag N. A comparative morphological analysis of body and fin shape for eight shark species. Biological Journal of the Linnean Society 122: 589-604. <a href="https://doi.org/10.1093/biolinnean/blx088">pdf</a></p>
+<p>Irschick DJ, Fu AL, Lauder GV, Wilga CD, <b>Kuo, C-Y</b>, Hammerschlag N. A 2017. comparative morphological analysis of body and fin shape for eight shark species. Biological Journal of the Linnean Society 122: 589-604. <a href="https://doi.org/10.1093/biolinnean/blx088">pdf</a></p>
 
-<h3>Pre 2016</h3>
+<p><b>Kuo C-Y*</b>, Irschick DJ. 2016. Ecology drives natural variation in an extreme antipredator trait: a cost-benefit analysis integrating modeling and field data. Functional Ecology 30: 953-963. <a href=" https://doi.org/10.1111/1365-2435.12593">pdf</a></p>
 
-<p><b>Kuo C-Y*</b>, Irschick DJ. Ecology drives natural variation in an extreme antipredator trait: a cost-benefit analysis integrating modeling and field data. Functional Ecology 30: 953-963. <a href=" https://doi.org/10.1111/1365-2435.12593">pdf</a></p>
+<p>Fu AL, Hammerschlag N, Lauder GV, Wilga CD, <b>Kuo C-Y</b>, Irschick DJ. 2016. Ontogeny of head and caudal fin shape of an apex marine predator: The tiger shark (Galeocerdo cuvier). Journal of Morphology 277: 556-564. <a href="https://pubmed.ncbi.nlm.nih.gov/26869274">pdf</a></p>
 
-<p>Fu AL, Hammerschlag N, Lauder GV, Wilga CD, <b>Kuo C-Y</b>, Irschick DJ. Ontogeny of head and caudal fin shape of an apex marine predator: The tiger shark (Galeocerdo cuvier). Journal of Morphology 277: 556-564. <a href="https://pubmed.ncbi.nlm.nih.gov/26869274">pdf</a></p>
+<p>Laborite D, Clemente CJ, Dittrich A, <b>Kuo C-Y</b>, Crosby AJ, Irschick DJ, Federle W. 2016. Extreme allometry of animal adhesive pads and the size limits of adhesion-based climbing. Proceedings of the National Academy of Sciences USA 113: 1297-1302. <a href="https://doi.org/10.1073/pnas.1519459113">pdf</a></p>
 
-<p>Laborite D, Clemente CJ, Dittrich A, <b>Kuo C-Y</b>, Crosby AJ, Irschick DJ, Federle W. Extreme allometry of animal adhesive pads and the size limits of adhesion-based climbing. Proceedings of the National Academy of Sciences USA 113: 1297-1302. <a href="https://doi.org/10.1073/pnas.1519459113">pdf</a></p>
+<p><b>Kuo C-Y*</b>, Irschick DJ, Lailvaux SP. 2015. Trait compensation between boldness and the propensity for tail autotomy under different food availabilities in similarly-aged brown anole lizards. Functional Ecology 29: 385-392. <a href="https://www.jstor.org/stable/48577167">pdf</a></p>
 
-<p><b>Kuo C-Y*</b>, Irschick DJ, Lailvaux SP. Trait compensation between boldness and the propensity for tail autotomy under different food availabilities in similarly-aged brown anole lizards. Functional Ecology 29: 385-392. <a href="https://www.jstor.org/stable/48577167">pdf</a></p>
+<p>Gillis GB, <b>Kuo C-Y</b>, Irschick DJ. 2013. The impact of tail loss on stability during jumping in green anoles (Anolis carolinensis). Physiological and Biochemical Zoology 86: 680-689. <a href="https://doi.org/10.1086/673756">pdf</a></p>
 
-<p>Gillis GB, <b>Kuo C-Y</b>, Irschick DJ. The impact of tail loss on stability during jumping in green anoles (Anolis carolinensis). Physiological and Biochemical Zoology 86: 680-689. <a href="https://doi.org/10.1086/673756">pdf</a></p>
+<p><b>Kuo C-Y*</b>, Gillis GB, Irschick DJ. 2012. Take this broken tail and learn to jump: the ability to recover from reduced in-air stability in tailless green anole lizards (Anolis carolinensis [Squamata:Dactyloidae]). Biological Journal of the Linnean Society 107: 583-592. <a href="https://doi.org/10.1111/j.1095-8312.2012.01958.x">pdf</a></p>
 
-<p><b>Kuo C-Y*</b>, Gillis GB, Irschick DJ. Take this broken tail and learn to jump: the ability to recover from reduced in-air stability in tailless green anole lizards (Anolis carolinensis [Squamata:Dactyloidae]). Biological Journal of the Linnean Society 107: 583-592. <a href="https://doi.org/10.1111/j.1095-8312.2012.01958.x">pdf</a></p>
-
-<p>Irschick DJ, <b>Kuo C-Y</b>. Functional traits of species and individuals. In Encyclopedia of Theoretical Ecology. Eds. A. Hastings and L. Gross. University of California Press.</p>
+<p>Irschick DJ, <b>Kuo C-Y</b>. 2012. Functional traits of species and individuals. In Encyclopedia of Theoretical Ecology. Eds. A. Hastings and L. Gross. University of California Press.</p>
 
 <p><b>Kuo C-Y*</b>, Gillis GB, Irschick DJ. 2011. Loading effect on jump performance in green anole lizards Anolis carolinensis. Journal of Experimental Biology 214: 2073-2079. <a href="https://pubmed.ncbi.nlm.nih.gov/21613524/">pdf</a></p>
 
