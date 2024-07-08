@@ -51,32 +51,6 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Hui-Chi Liu 劉蕙綺</h3>
-				</header>
-				<p>Hui-Chi is a senior in the Bachelor Program in Life Sciences. She was awarded an MOST undergraduate student research scholarship to study toxicity and signal similarity among Mullerian mimetic butterflies.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/pic12.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Ching-Ning Yeh 葉晴寧</h3>
-				</header>
-				<p>Ching-Ning is a senior in the Bachelor Program in Life Sciences. She works on the thermal tolerance and habitat differentiation in a sea urchin species complex.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="" class="image">
 			<img src="{% link assets/images/pic16.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -161,6 +135,8 @@ nav-menu: true
 		<header class="major">
 			<h2>Lab Alumni</h2>
 		</header>
-		<p><b>Hao-En Chin 秦皓恩 (2022-2023):</b> Hao-En was a postgraduate research technician in the lab. He helped perform avoidance learning experiments on lizards and domestic chicks.</p>
+		<p><b>Hao-En Chin 秦皓恩 (Undergard 2021-2023):</b> Hao-En worked as a postgraduate research technician in the lab. He helped perform avoidance learning experiments on lizards and domestic chicks.</p>
+		<p><b>Hui-Chi Liu 劉蕙綺 (Undergrad 2021-2023):</b> Hui-Chi mainly worked with Müllerian butterflies during her time in the lab. She is now a Master's student at Dr. Po-An Lin's lab at NTU.</p>
+		<p><b>Ching-Ning Yeh 葉晴寧 (Undergrad 2022-2023):</b> Ching-Ning worked on both lizards and butterflies in the lab. She is now a Master's student at Dr. David Zelený's lab at NTU.</p>
 	</div>
 </section>
