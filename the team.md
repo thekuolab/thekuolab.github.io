@@ -38,14 +38,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/pic18.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/pic24.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Research Assistant: Yu-Zhe Wu 巫宇哲</h3>
+					<h3>Research Assistant: Hao-En Chin 秦皓恩</h3>
 				</header>
-				<p>Yu-Zhe is a recent graduate from the Biology Department and worked in our group as an undergraduate. He will be in charge of multiple projects, including one on boldness and reverse learning in lizards and another on predator responses to butterfly chemical defenses.</p>
+				<p>Hao-En was the first undergraduate student to join the lab. He returned as the research assistant on the project that investigates the roles of chemical defense and mimicry fidelity in determining population dynamics of Müllerian butterflies.</p>
 			</div>
 		</div>
 	</section>
@@ -138,5 +138,6 @@ nav-menu: true
 		<p><b>Hao-En Chin 秦皓恩 (Undergrad 2021-2023):</b> Hao-En worked as a postgraduate research technician in the lab. He helped perform avoidance learning experiments on lizards and domestic chicks. He will re-join the lab soon as a research assistant.</p>
 		<p><b>Hui-Chi Liu 劉蕙綺 (Undergrad 2021-2024):</b> Hui-Chi mainly worked with Müllerian butterflies during her time in the lab. She is now a Master's student with Dr. Po-An Lin at NTU.</p>
 		<p><b>Ching-Ning Yeh 葉晴寧 (Undergrad 2022-2024):</b> Ching-Ning worked on both lizards and butterflies in the lab. She is now a Master's student with Dr. David Zelený at NTU.</p>
+		<p><b>Yu-Zhe Wu 巫宇哲 (Research Assistant 2023-2024):</b> Yu-Zhe was a research assistant working on lizards but played a key role in all projects of the lab. He is now a Master's student with Dr. You-Yin Chen at NYCU working on brain-machine interface.</p>
 	</div>
 </section>
