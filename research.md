@@ -29,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Personality-cognition coupling and pace-of-life syndromes</h3>
+					<h3>Personality-cognition coupling and pace-of-life syndrome</h3>
 				</header>
-				<p>The pace-of-life syndromes hypothesis predicts correlated expressions of behavioral tendency and cognitive style along a slow-fast continuum, but empirical evidence has been varied and inconclusive. We investigate the proximate (genetics vs. environment) and ultimate (eco-evolutionary drivers) mechanisms of the personality-cognition coupling, using lizards and insects as systems.</p>
+				<p>The pace-of-life syndrome hypothesis predicts correlated expressions of behavioral tendency and cognitive style along a slow-fast continuum, but empirical evidence has been inconclusive. We investigate the proximate (genetics vs. environment) and ultimate (eco-evolutionary drivers) mechanisms of the personality-cognition coupling, using lizards and insects as systems.</p>
 			</div>
 		</div>
 	</section>
