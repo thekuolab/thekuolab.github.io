@@ -45,7 +45,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Research Assistant: Hao-En Chin 秦皓恩</h3>
 				</header>
-				<p>Hao-En was the first undergraduate student to join the lab. He returned as the research assistant on the project that investigates the roles of chemical defense and mimicry fidelity in determining population dynamics of Müllerian butterflies.</p>
+				<p>Hao-En was the first undergraduate student to join the lab. He has returned as the research assistant on the project that investigates the roles of chemical defense and mimicry fidelity in determining population dynamics of Müllerian butterflies.</p>
 			</div>
 		</div>
 	</section>
@@ -97,7 +97,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Shan-Yu Yang  楊善喻</h3>
 				</header>
-				<p>Shan-Yu is a sophomore in the Bachelor Program in Life Sciences. She is interested in animal behavior and cognition.</p>
+				<p>Shan-Yu is a sophomore in the Bachelor Program in Life Sciences. She is testing learning and cognition in pet parrots.</p>
 			</div>
 		</div>
 	</section>
