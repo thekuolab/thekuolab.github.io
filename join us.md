@@ -7,7 +7,7 @@ nav-menu: true
 ---
 <b>People with all identities and backgrounds are welcome to join our group. As long as space and resources allow, we are always open to recruiting new members. Active openings will also be posted here.</b> 
 
-For prospective graduate students and postdocs: I will not respond to generic inquiries that do not explain why our group is a good fit or applicants from completely unrelated research fields. If you happen to be from a very different research background but are genuine about joining the lab, please make sure to let me know why you'd like to join our group.
+For prospective graduate students and postdocs: I will not respond to generic inquiries that do not explain why our group is a good fit or applicants from completely unrelated research fields. If you happen to be from a very different research background but are genuine about joining, please make sure to let me know your reasons.
 
 <h3>Postdocs</h3>
 I have a three-year project funded by NSTC that can allow me to hire a postdoc. If you are interested in any of these topics - population dynamics of Müllerian mimicry butterflies, avoidance learning, and chemical ecology - I'd love to hear from you! 
