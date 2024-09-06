@@ -12,7 +12,7 @@ nav-menu: true
 			<h1>Publications</h1>
 		</header>
 
-<p>*Corresponding author, ⁺student/RA authors from the lab
+<p>*Corresponding author, ⁺student/RA author from the lab
 
 <h3>Preprint / In review / In revision</h3>
 
