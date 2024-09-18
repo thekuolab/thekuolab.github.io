@@ -21,7 +21,7 @@ nav-menu: true
 
 <h3>2024</h3>
 
-<p><b>Kuo C-Y*</b>, Chen Y-H⁺, Meng A-C⁺, Wu Y-Z⁺, Yang S-Y⁺, Yeh C-N⁺. Exploration correlates with dietary choosiness and avoidance learning style in a generalist predator. Behavioral Ecology arae065. <a href="https://doi.org/10.1093/beheco/arae065"> pdf</a></p>
+<p><b>Kuo C-Y*</b>, Chen Y-H⁺, Meng A-C⁺, Wu Y-Z⁺, Yang S-Y⁺, Yeh C-N⁺. Exploration correlates with dietary choosiness and avoidance learning style in a generalist predator. Behavioral Ecology 35: arae065. <a href="https://doi.org/10.1093/beheco/arae065"> pdf</a></p>
 
 <p>Wright DS, Rodriguez-Fuentes J, Ammer L, Darragh K, <b>Kuo C-Y</b>, McMillan WO, Jiggins CD, Montgomery SH, Merrill RM. Selection drives divergence of eye morphology in sympatric <i>Heliconius</i> butterflies. Evolution 78: 1338-1346. <a href="https://doi.org/10.1093/evolut/qpae073"> pdf</a></p>
 
