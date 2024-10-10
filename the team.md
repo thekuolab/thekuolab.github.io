@@ -31,7 +31,7 @@ nav-menu: true
 					<h4>Assistant Professor - <a href= "https://biology.kmu.edu.tw/index.php/zh-tw/">Department of Biomedical Science and Environmental Biology</a></h4>
 					<h4>Associate Editor - <a href= "https://besjournals.onlinelibrary.wiley.com/journal/13652435">Functional Ecology</a></h4>
 				</header>
-				<p>Chi is an evolutionary and behavioral ecologist with a particular interest in understanding how behaviors can change with experience and the community-level consequences, especially in the context of predator-prey interactions and mimicry. Chi uses an integrative approach to answer questions at hand. <a href= "https://drive.google.com/file/d/1E7IoR4qD-L0H-skigaQS6nMyfg_mr7pg/view?usp=share_link">Here's Chi's CV (updated 09-06-2024)</a></p>
+				<p>Chi is an evolutionary and behavioral ecologist interested in understanding how behaviors can change with experience and the community-level consequences, especially in the context of predator-prey interactions and mimicry. Chi values an integrative approach to answer questions at hand. <a href= "https://drive.google.com/file/d/1E7IoR4qD-L0H-skigaQS6nMyfg_mr7pg/view?usp=share_link">Here's Chi's CV (updated 09-06-2024)</a></p>
 				
 			</div>
 		</div>
@@ -58,7 +58,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Ai-Ching Meng 孟艾晴</h3>
 				</header>
-				<p>Ai-Ching is a junior in the Biology Department. She is using AI to quantify exploration personality in lizards.</p>
+				<p>Ai-Ching is a senior in the Biology Department. She is using AI to quantify exploration personality in lizards.</p>
 			</div>
 		</div>
 	</section>
@@ -71,7 +71,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Yu-Hsi Chen  陳又璽</h3>
 				</header>
-				<p>You-Si is a junior in the Biology Department. He is participating in the project using domestic chicks as predators to measure avoidance towards toxic butterflies.</p>
+				<p>You-Si is a senior in the Biology Department. He is participating in the project using domestic chicks as predators to measure avoidance towards toxic butterflies.</p>
 			</div>
 		</div>
 	</section>
@@ -84,7 +84,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hsin-Yen Lu  呂欣彥</h3>
 				</header>
-				<p>Hsin-Yen is a junior in the Biotechnology Department. He is working on visualizing butterfly wing patterns when they are in motion.</p>
+				<p>Hsin-Yen is a senior in the Biotechnology Department. He is working on visualizing butterfly wing patterns when they are in motion.</p>
 			</div>
 		</div>
 	</section>			
@@ -97,7 +97,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Shan-Yu Yang  楊善喻</h3>
 				</header>
-				<p>Shan-Yu is a sophomore in the Bachelor Program in Life Sciences. She is testing learning and cognition in pet parrots.</p>
+				<p>Shan-Yu is a junior in the Bachelor Program in Life Sciences. She is testing learning and cognition in pet parrots.</p>
 			</div>
 		</div>
 	</section>
@@ -110,7 +110,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hsin-Chen Tsai 蔡昕辰</h3>
 				</header>
-				<p>Hsin-Chen is a sophomore in the Biology Department. She is participating in our experimental evolution project using bugs.</p>
+				<p>Hsin-Chen is a junior in the Biology Department. She is participating in our experimental evolution project using bugs.</p>
 			</div>
 		</div>
 	</section>
@@ -123,7 +123,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Chiao-Hsuan Kuo 郭蕎瑄</h3>
 				</header>
-				<p>Chiao-Hsuan is a sophomore in the Biology Department. She is also participating in our experimental evolution project using bugs.</p>
+				<p>Chiao-Hsuan is a junior in the Biology Department. She is also participating in our experimental evolution project using bugs.</p>
 			</div>
 		</div>
 	</section>
