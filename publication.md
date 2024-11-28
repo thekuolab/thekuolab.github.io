@@ -18,6 +18,8 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>. <i>In revision</i>. Resolving the paradox of local warning signal diversity with predator learning. The American Naturalist.</p>
 
+<p>Ho H-C*, <b>Kuo C-Y*</b><i>In review</i>. Environment-driven plasticity in foraging behavior: from individual-level processes to community-level consequences.</p>
+
 <h3>2024</h3>
 
 <p><b>Kuo C-Y*</b>, Chen Y-H⁺, Meng A-C⁺, Wu Y-Z⁺, Yang S-Y⁺, Yeh C-N⁺. Exploration correlates with dietary choosiness and avoidance learning style in a generalist predator. Behavioral Ecology 35: arae065. <a href="https://doi.org/10.1093/beheco/arae065"> pdf</a></p>
