@@ -84,4 +84,4 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>, Lin Y-T, Lin Y-S. 2009. Sexual size and shape dimorphism in an agamid lizard, Japalura swinhonis (Squamata: Iguania: Agamidae). Zoological Studies 48(3): 351-361 (cover). <a href="http://zoolstud.sinica.edu.tw/Journals/48.3/351.pdf">pdf</a></p>
 
-<p><b>Kuo C-Y*</b>, Lin Y-S, Lin K Y-T. 2007. Resource use and morphology of two sympatric Japalura lizards (Iguania: Agamidae). Journal of Herpetology 41(4): 713-723. <a href="https://doi.org/10.1670/06-197.1">pdf</a></p>
+<p><b>Kuo C-Y*</b>, Lin Y-S, Lin Y-T K. 2007. Resource use and morphology of two sympatric Japalura lizards (Iguania: Agamidae). Journal of Herpetology 41(4): 713-723. <a href="https://doi.org/10.1670/06-197.1">pdf</a></p>
