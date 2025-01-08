@@ -18,7 +18,7 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>. <i>In revision</i>. Resolving the paradox of local warning signal diversity with predator learning. The American Naturalist.</p>
 
-<p>Ho H-C*, <b>Kuo C-Y*</b><i>. In review</i>. Environment-driven plasticity in foraging behavior: from individual-level processes to community-level consequences.</p>
+<p>Ho H-C*, <b>Kuo C-Y*</b><i>. In revision</i>. Environment-driven plasticity in foraging behavior: from individual-level processes to community-level consequences. Functional Ecology.</p>
 
 <h3>2024</h3>
 
