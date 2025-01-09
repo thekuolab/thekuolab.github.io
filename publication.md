@@ -58,11 +58,9 @@ nav-menu: true
 
 <p>Imburgia MJ, <b>Kuo C-Y</b>, Briggs DR, Irschick DJ, Crosby AJ. Effects of digit orientation on gecko adhesive force capacity: synthetic and behavioral studies. Integrative and Comparative Biology 51: 182-192. <a href="https://doi.org/10.1093/icb/icz024">pdf</a></p>
 
-<h3>2018</h3>
+<h3>Pre 2019</h3>
 
-<p>Ilton M, Bhamla S, Ma X, Cox S, Fitchett LL, Kim Y, Koh J-S, Krishnamurthy D, <b>Kuo C-Y</b>, Temel FZ, Crosby A, Prakash M, Sutton G, Wood R, Azizi E, Bergbreiter S, Patek S. The principles of cascading power limits in small, fast biological and engineered systems. Science 360: eaao1082. <a href="https://www.science.org/doi/10.1126/science.aao1082">pdf</a></p>
-
-<h3>Pre 2018</h3>
+<p>Ilton M, Bhamla S, Ma X, Cox S, Fitchett LL, Kim Y, Koh J-S, Krishnamurthy D, <b>Kuo C-Y</b>, Temel FZ, Crosby A, Prakash M, Sutton G, Wood R, Azizi E, Bergbreiter S, Patek S. 2018. The principles of cascading power limits in small, fast biological and engineered systems. Science 360: eaao1082. <a href="https://www.science.org/doi/10.1126/science.aao1082">pdf</a></p>
 
 <p>Irschick DJ, Fu AL, Lauder GV, Wilga CD, <b>Kuo, C-Y</b>, Hammerschlag N. A 2017. comparative morphological analysis of body and fin shape for eight shark species. Biological Journal of the Linnean Society 122: 589-604. <a href="https://doi.org/10.1093/biolinnean/blx088">pdf</a></p>
 
