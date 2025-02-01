@@ -28,10 +28,10 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Lab PI: Chi-Yun Kuo 郭祺筠</h3>
-					<h4>Assistant Professor - <a href= "https://biology.kmu.edu.tw/index.php/zh-tw/">Department of Biomedical Science and Environmental Biology</a></h4>
+					<h4>Associate Professor - <a href= "https://biology.kmu.edu.tw/index.php/zh-tw/">Department of Biomedical Science and Environmental Biology</a></h4>
 					<h4>Associate Editor - <a href= "https://besjournals.onlinelibrary.wiley.com/journal/13652435">Functional Ecology</a></h4>
 				</header>
-				<p>Chi is an evolutionary and behavioral ecologist interested in understanding how behaviors can change with experience and the community-level consequences, especially in the context of predator-prey interactions and mimicry. Chi values an integrative approach to answer questions at hand. <a href= "https://drive.google.com/file/d/16aGibhMYMdcLXS6yYGPZSxeRjI92pNG7/view?usp=share_link">Here's Chi's CV (updated 11-28-2024)</a></p>
+				<p>Chi is an evolutionary and behavioral ecologist interested in understanding how behaviors can change with experience and the community-level consequences, especially in the context of predator-prey interactions and mimicry. Chi values an integrative approach to answer questions at hand. <a href= "https://drive.google.com/file/d/1g_K7RsMWrG2ZnqY4pmDr-pfOQRmspU8u/view?usp=share_link">Here's Chi's CV (updated 02-01-2025)</a></p>
 				
 			</div>
 		</div>
