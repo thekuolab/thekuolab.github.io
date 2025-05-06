@@ -50,15 +50,13 @@ nav-menu: true
 
 <p>Hausmann AE, <b>Kuo C-Y</b>, Freire M, Rueda-M N, Linares M, Pardo-Diaz C, Salazar C, Merrill RM. Light environment influences mating behaviours during the early stages of divergence in tropical butterflies. Proceedings of the Royal Society B 288: 20210157. <a href="https://doi.org/10.1098/rspb.2021.0157">pdf</a></p>
 
-<h3>2019</h3>
+<h3>Pre 2021</h3>
 
-<p><b>Kuo C-Y*</b>, Muñoz MM, Irschick DJ. Lizard foraging: a perspective integrating sensory ecology and life histories. In: Behavior of Lizards (Eds: V. Bels and Anthony Russell). CRC Press. (peer-reviewed)</p>
+<p><b>Kuo C-Y*</b>, Muñoz MM, Irschick DJ. 2019. Lizard foraging: a perspective integrating sensory ecology and life histories. In: Behavior of Lizards (Eds: V. Bels and Anthony Russell). CRC Press. (peer-reviewed)</p>
 
 <p>Farley G, Wise M, Harrison J, Sutton GP, <b>Kuo C-Y</b>, Patek SN. Adhesive latching and legless leaping in small, worm-like insect larvae. Journal of Experimental Biology 222: jeb201129. <a href="https://doi.org/10.1242/jeb.201129">pdf</a></p>
 
 <p>Imburgia MJ, <b>Kuo C-Y</b>, Briggs DR, Irschick DJ, Crosby AJ. Effects of digit orientation on gecko adhesive force capacity: synthetic and behavioral studies. Integrative and Comparative Biology 51: 182-192. <a href="https://doi.org/10.1093/icb/icz024">pdf</a></p>
-
-<h3>Pre 2019</h3>
 
 <p>Ilton M, Bhamla S, Ma X, Cox S, Fitchett LL, Kim Y, Koh J-S, Krishnamurthy D, <b>Kuo C-Y</b>, Temel FZ, Crosby A, Prakash M, Sutton G, Wood R, Azizi E, Bergbreiter S, Patek S. 2018. The principles of cascading power limits in small, fast biological and engineered systems. Science 360: eaao1082. <a href="https://www.science.org/doi/10.1126/science.aao1082">pdf</a></p>
 
