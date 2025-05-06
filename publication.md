@@ -54,9 +54,9 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>, Muñoz MM, Irschick DJ. 2019. Lizard foraging: a perspective integrating sensory ecology and life histories. In: Behavior of Lizards (Eds: V. Bels and Anthony Russell). CRC Press. (peer-reviewed)</p>
 
-<p>Farley G, Wise M, Harrison J, Sutton GP, <b>Kuo C-Y</b>, Patek SN. Adhesive latching and legless leaping in small, worm-like insect larvae. Journal of Experimental Biology 222: jeb201129. <a href="https://doi.org/10.1242/jeb.201129">pdf</a></p>
+<p>Farley G, Wise M, Harrison J, Sutton GP, <b>Kuo C-Y</b>, Patek SN. 2019. Adhesive latching and legless leaping in small, worm-like insect larvae. Journal of Experimental Biology 222: jeb201129. <a href="https://doi.org/10.1242/jeb.201129">pdf</a></p>
 
-<p>Imburgia MJ, <b>Kuo C-Y</b>, Briggs DR, Irschick DJ, Crosby AJ. Effects of digit orientation on gecko adhesive force capacity: synthetic and behavioral studies. Integrative and Comparative Biology 51: 182-192. <a href="https://doi.org/10.1093/icb/icz024">pdf</a></p>
+<p>Imburgia MJ, <b>Kuo C-Y</b>, Briggs DR, Irschick DJ, Crosby AJ. 2019. Effects of digit orientation on gecko adhesive force capacity: synthetic and behavioral studies. Integrative and Comparative Biology 51: 182-192. <a href="https://doi.org/10.1093/icb/icz024">pdf</a></p>
 
 <p>Ilton M, Bhamla S, Ma X, Cox S, Fitchett LL, Kim Y, Koh J-S, Krishnamurthy D, <b>Kuo C-Y</b>, Temel FZ, Crosby A, Prakash M, Sutton G, Wood R, Azizi E, Bergbreiter S, Patek S. 2018. The principles of cascading power limits in small, fast biological and engineered systems. Science 360: eaao1082. <a href="https://www.science.org/doi/10.1126/science.aao1082">pdf</a></p>
 
