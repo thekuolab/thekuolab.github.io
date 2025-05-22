@@ -18,7 +18,9 @@ nav-menu: true
 
 <p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning.</p>
 
-<p>Ho H-C*, <b>Kuo C-Y*</b><i>. In revision</i>. Environment-driven plasticity in foraging behavior: from individual-level processes to community-level consequences. Functional Ecology.</p>
+<h3>2025</h3>
+
+<p>Ho H-C*, <b>Kuo C-Y*</b><i>. Accepted</i>. Environment-driven plasticity in foraging behavior: from individual-level processes to community-level consequences. Functional Ecology.</p>
 
 <h3>2024</h3>
 
