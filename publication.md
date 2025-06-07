@@ -20,7 +20,7 @@ nav-menu: true
 
 <h3>2025</h3>
 
-<p>Ho H-C*, <b>Kuo C-Y*</b><i>. Environment-driven plasticity in foraging behavior: from individual-level processes to community-level consequences. Functional Ecology. <a href=" https://doi.org/10.1111/1365-2435.70084"> pdf</a></p>
+<p>Ho H-C*, <b>Kuo C-Y*</b><i>. Environment-driven plasticity in foraging behavior: from individual-level processes to community-level consequences. Functional Ecology. <a href="https://doi.org/10.1111/1365-2435.70084"> pdf</a></p>
 
 <h3>2024</h3>
 
