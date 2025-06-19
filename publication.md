@@ -16,7 +16,7 @@ nav-menu: true
 
 <h3>Preprint / In review / In revision</h3>
 
-<p><b>Kuo C-Y*</b>. <i>In review</i>. Resolving the paradox of local warning signal diversity with predator learning.</p>
+<p><b>Kuo C-Y*</b>. <i>In revision</i>. Resolving the paradox of local warning signal diversity with predator learning.</p>
 
 <h3>2025</h3>
 
