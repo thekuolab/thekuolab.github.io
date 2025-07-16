@@ -16,7 +16,7 @@ nav-menu: true
 
 <h3>Preprint / In review / In revision</h3>
 
-More to come...
+<p>More to come...</p>
 
 <h3>2025</h3>
 
