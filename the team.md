@@ -58,7 +58,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Shan-Yu Yang  楊善喻</h3>
 				</header>
-				<p>Shan-Yu is a junior in the Bachelor Program in Life Sciences. She is testing learning and cognition in pet parrots.</p>
+				<p>Shan-Yu is a senior in the Bachelor Program in Life Sciences. She recently got a student research grant from NSTC and is looking into how quickly common sun skinks would forget learned avoidance.</p>
 			</div>
 		</div>
 	</section>
@@ -71,7 +71,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hsin-Chen Tsai 蔡昕辰</h3>
 				</header>
-				<p>Hsin-Chen is a junior in the Biology Department. She is participating in our experimental evolution project using bugs.</p>
+				<p>Hsin-Chen is a senior in the Biology Department. She is participating in our field learning experiments using paper butterflies.</p>
 			</div>
 		</div>
 	</section>
@@ -84,7 +84,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Chiao-Hsuan Kuo 郭蕎瑄</h3>
 				</header>
-				<p>Chiao-Hsuan is a junior in the Biology Department. She is also participating in our experimental evolution project using bugs.</p>
+				<p>Chiao-Hsuan is a senior in the Biology Department. She is also in our field learning experiments using paper butterflies.</p>
 			</div>
 		</div>
 	</section>
