@@ -31,7 +31,7 @@ nav-menu: true
 					<h4>Associate Professor - <a href= "https://biology.kmu.edu.tw/index.php/zh-tw/">Department of Biomedical Science and Environmental Biology</a></h4>
 					<h4>Associate Editor - <a href= "https://besjournals.onlinelibrary.wiley.com/journal/13652435">Functional Ecology</a></h4>
 				</header>
-				<p>Chi is an evolutionary and behavioral ecologist interested in understanding how behaviors can change with experience and the community-level consequences, especially in the context of predator-prey interactions and mimicry. Chi values an integrative approach to answer questions at hand. <a href= "https://drive.google.com/file/d/18M3TP5d1zLnM6T89ENVDmt5wQug2c4-U/view?usp=share_link">Here's Chi's CV (updated 11-18-2025)</a></p>
+				<p>Chi is an evolutionary and behavioral ecologist interested in understanding how behaviors can change with experience and the community-level consequences, especially in the context of predator-prey interactions and mimicry. Chi values an integrative approach to answer questions at hand. <a href= "https://drive.google.com/file/d/18M3TP5d1zLnM6T89ENVDmt5wQug2c4-U/view?usp=share_link">Here's Chi's CV (updated 12-23-2025)</a></p>
 				
 			</div>
 		</div>
