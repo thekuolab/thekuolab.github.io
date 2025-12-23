@@ -16,7 +16,7 @@ nav-menu: true
 
 <h3>Preprint / In review / In revision</h3>
 
-<p><b>Kuo C-Y*</b>, Tseng S-P. <i>In review.</i>Resolving the paradox of local warning signal diversity: a framework for hypothesis testing.</p>
+<p><b>Kuo C-Y*</b>, Tseng S-P. <i>In review.</i> Resolving the paradox of local warning signal diversity: a framework for hypothesis testing.</p>
 
 <h3>2025</h3>
 
