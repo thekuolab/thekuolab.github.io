@@ -50,11 +50,9 @@ nav-menu: true
 
 <p>Tu Z-W, Lai Y-Z, Chen H-C, <b>Kuo C-Y</b>, Lee P-F, Ko C-Y. Trends in geographic sensitivity of marine fishes over decades in the North Sea. Frontiers in Marine Science 8: 748278. <a href="https://doi.org/10.3389/fmars.2021.748278">pdf</a></p>
 
-<h3>2021</h3>
+<h3>Pre 2022</h3>
 
-<p>Hausmann AE, <b>Kuo C-Y</b>, Freire M, Rueda-M N, Linares M, Pardo-Diaz C, Salazar C, Merrill RM. Light environment influences mating behaviours during the early stages of divergence in tropical butterflies. Proceedings of the Royal Society B 288: 20210157. <a href="https://doi.org/10.1098/rspb.2021.0157">pdf</a></p>
-
-<h3>Pre 2021</h3>
+<p>Hausmann AE, <b>Kuo C-Y</b>, Freire M, Rueda-M N, Linares M, Pardo-Diaz C, Salazar C, Merrill RM. 2021. Light environment influences mating behaviours during the early stages of divergence in tropical butterflies. Proceedings of the Royal Society B 288: 20210157. <a href="https://doi.org/10.1098/rspb.2021.0157">pdf</a></p>
 
 <p><b>Kuo C-Y*</b>, Muñoz MM, Irschick DJ. 2019. Lizard foraging: a perspective integrating sensory ecology and life histories. In: Behavior of Lizards (Eds: V. Bels and Anthony Russell). CRC Press. (peer-reviewed)</p>
 
