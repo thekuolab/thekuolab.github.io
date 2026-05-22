@@ -20,7 +20,7 @@ nav-menu: true
 
 <h3>2026</h3>
 
-<p><b>Kuo C-Y*</b>, Tseng S-P. <i>Accepted.</i> Resolving the paradox of local warning signal diversity: a framework for hypothesis testing. Functional Ecology.</p>
+<p><b>Kuo C-Y*</b>, Tseng S-P. <i>Accepted.</i> Resolving the paradox of local warning signal diversity: a framework for hypothesis testing. Functional Ecology. <a href="http://doi.org/10.1111/1365-2435.70356"> pdf</a></p>
 
 <h3>2025</h3>
 
