@@ -16,7 +16,7 @@ nav-menu: true
 
 <h3>Preprint / In review / In revision</h3>
 
-<p>More to come</p>
+<p><b>Kuo C-Y*</b>*. <i>In review</i>. Sexual difference in defense can drive the evolution of imperfect Müllerian mimicry in the less defended sex.</p>
 
 <h3>2026</h3>
 
