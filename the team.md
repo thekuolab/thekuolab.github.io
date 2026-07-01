@@ -66,7 +66,7 @@ nav-menu: true
 		<p><b>Yu-Hsi Chen 陳又璽 (Undergrad 2023-2025):</b> Yu-Hsi also participated in the lizard learning experiments. He is pursuing a career in helping animal shelters develop a social media presence.</p>
 		<p><b>Hsin-Yen Lu 呂欣彥 (Undergrad 2024-2025):</b> Hsi-Yen helped convert butterfly wing images into animations that we could potentially use in the field to show bird predators. He is now a Master's student at NUT.</p>
 		<p><b>Shan-Yu Yang 楊善喻 (Undergrad 2024-2026):</b> Shan-Yu worked on avoidance learning and memory in the common sun skinks with the support of an NSTC undergraduate research grant. She now studies ants with Dr. Kok-Boon Neoh at NCHU.</p>
-		<p><b>Hsin-Chen Tsai 蔡昕辰 (Undergrad 2024-2026):</b> Hsin-Chen helped digitized butterfly wings that we used to compare color patterns between Müllerian comimics under bird vision. She is pursuing a career in music scoring at the Leeds Conservatorie in the UK.</p>
+		<p><b>Hsin-Chen Tsai 蔡昕辰 (Undergrad 2024-2026):</b> Hsin-Chen helped digitize butterfly wings that we used to compare color patterns between Müllerian comimics under bird vision. She is pursuing a career in music scoring at the Leeds Conservatorie in the UK.</p>
 		<p><b>Chiao-Hsuan Kuo 郭蕎瑄 (Undergrad 2024-2026):</b> Chiao-Hsuan participated in taking multispectral images of butterfly wings and also helped in extracting genomic DNA from butterflies. She is seeking a career in postal services.</p>
 	</div>
 </section>
