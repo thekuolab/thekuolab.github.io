@@ -49,46 +49,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/pic19.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Shan-Yu Yang  楊善喻</h3>
-				</header>
-				<p>Shan-Yu is a senior in the Bachelor Program in Life Sciences. She recently got a student research grant from NSTC and is looking into how quickly common sun skinks would forget learned avoidance.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/pic21.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Hsin-Chen Tsai 蔡昕辰</h3>
-				</header>
-				<p>Hsin-Chen is a senior in the Biology Department. She is participating in our field learning experiments using paper butterflies.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/pic22.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Chiao-Hsuan Kuo 郭蕎瑄</h3>
-				</header>
-				<p>Chiao-Hsuan is a senior in the Biology Department. She is also participating in our field learning experiments using paper butterflies.</p>
-			</div>
-		</div>
-	</section>
-</section>
 
 <!-- Three -->
 <section id="three">
@@ -103,5 +63,8 @@ nav-menu: true
 		<p><b>Ai-Ching Meng 孟艾晴 (Undergrad 2023-2025):</b> Ai-Ching mainly participated in the lizard learning experiments but also helped with our butterfly project. She is now a Master's student with Dr. Hsi-Cheng Ho at NTU.</p>
 		<p><b>Yu-Hsi Chen 陳又璽 (Undergrad 2023-2025):</b> Yu-Hsi also participated in the lizard learning experiments. He is pursuing a career in helping animal shelters develop a social media presence.</p>
 		<p><b>Hsin-Yen Lu 呂欣彥 (Undergrad 2024-2025):</b> Hsi-Yen helped convert butterfly wing images into animations that we could potentially use in the field to show bird predators. He is now a Master's student at NUT.</p>
+		<p><b>Shan-Yu Yang 楊善喻 (Undergrad 2024-2026):</b> Shan-Yu worked on avoidance learning and memory in the common sun skinks with the support of an NSTC undergraduate research grant. She now studies ants with Dr. Kok-Boon Neoh at NCHU.</p>
+		<p><b>Hsin-Chen Tsai 蔡昕辰 (Undergrad 2024-2026):</b> Hsin-Chen helped digitized butterfly wings that we used to compare color patterns between Müllerian comimics under bird vision. She is pursuing a career in music scoring at the Leeds Conservatorie in the UK.</p>
+		<p><b>Chiao-Hsuan Kuo 郭蕎瑄 (Undergrad 2024-2026):</b> Chiao-Hsuan participated in taking multispectral images of butterfly wings and also helped in extracting genomic DNA from butterflies. She is seeking a career in postal services.</p>
 	</div>
 </section>
